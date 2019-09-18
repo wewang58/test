@@ -1,1 +1,1 @@
-FROM quay.io/drahnr/fedora@sha256:5562f951443b829832cfc603eebc0057d5e23b2448db3192f7024dbb06abac04
+FROM quay.io/fedora/fedora@sha256:859c30ee254c93799dc051a78549e69ff63bf5f48bc5d671b6524d8a89642f08
